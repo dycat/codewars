@@ -1,3 +1,4 @@
+#include <stdlib.h>
 
 int sum_array(const int *values, size_t count) {
   if (count == 0) {
